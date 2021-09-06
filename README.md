@@ -4,7 +4,7 @@ This project make use of a third-party labrary - QcustomPlot. Which is a powerfu
 
 The project is wrtten using Qt5(based on C++), so, open the project in Qt Creator(like the ide for Qt) using the .pro file.
 
-The features are all realized in mainwindow.cpp. The parsing functions like send packet or receive packets have not been implemented yet. These depends on communication protocal specified by your.
+The features are all realized in mainwindow.cpp. The parsing functions like send packet or receive packets have not been implemented yet. These depends on communication protocal specified by yourself.
 
 The QCustom Plot allowed plotting to happen on a child of the mainwindow. So painting happens on the central widget as you can check by double clicking the .ui file. The kernel of the paint is done by widgetPaint(int j), so going through it is useful
 
