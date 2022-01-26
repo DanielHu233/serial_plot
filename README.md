@@ -1,5 +1,5 @@
 
-#Serial port debugging assistant
+# Serial port debugging assistant
 
 This project make use of a third-party labrary - QcustomPlot. 
 
